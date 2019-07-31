@@ -7,7 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `Blazing Fast Fake Store`,
+    title: `🚀 Blazing Fast Fake Store`,
     description: `We offer the best PC related products. Lorem ipsum lorem scelerisque facilisis senectus non fermentum, consectetur aenean lacus mollis lorem torquent, lacus faucibus torquent accumsan posuere aenean. sapien platea vehicula vitae etiam eros, nisl primis nostra at convallis per, mi malesuada in maecenas. condimentum consectetur pharetra proin morbi accumsan tellus nunc, sapien arcu a sodales elit elementum, ultrices pellentesque vel cursus tempus massa.`,
     features: [
       {
@@ -38,7 +38,5 @@ module.exports = {
         path: `./src/data/`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
   ],
 }
