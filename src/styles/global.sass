@@ -1,22 +1,33 @@
-h1
-  font-size: 50px
-  color: aqua
-
 body 
-  background-color: snow
+  background-color: snow !important
 
+#cta > a
+  text-decoration: none
+  color: black
 
-#page-numbers
-  list-style: none
-  display: flex
+  &:hover
+    color: white
 
+#products > img
+  height: 100%
 
-#page-numbers > li 
-  margin-right: 0.3em
-  color: blue
-  user-select: none
-  cursor: pointer
+#back
 
+#pagination
 
-#page-numbers .active 
+  & li
+    display: inline-block
+    list-style: none
+    cursor: pointer
+    margin-right: 8px
+    
+.active
   color: red
+  font-height: 900
+
+#back > a
+  text-decoration: none
+  color: white
+
+  &:hover
+    color: white
