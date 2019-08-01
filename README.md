@@ -4,6 +4,11 @@
 
 # Install and run the project
 ```sh
-    cd my-hello-world-starter/
-    gatsby develop
+    cd hello-world
+    npm install && npm start
+    ```
+# Build for production and serve
+```sh
+    npm run build
+    npm serve
     ```
