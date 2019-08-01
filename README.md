@@ -18,3 +18,9 @@
     npm run build
     npm serve
 ```
+# Authors
+## [Nuno Soares](https://nunosoares.eu)
+#### Software Frontend Engineer at Mindera.com. Use mostly React, React Native, Redux, Laravel, Wordpress. 
+
+## [Nuno Pereira](https://www.nunopereira.dev/)
+#### Frontend Developer. I don't Like to define myself by the work I have done . I define myself by the work I want to do . Skills can be taught, personality is inherent. I prefer to keep learning , to continue challenge myself, and to do interesting things that are meaningful.
