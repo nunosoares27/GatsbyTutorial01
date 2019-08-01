@@ -6,7 +6,8 @@
 ```sh
     cd hello-world
     npm install && npm start
-    ```
+```
+    
 # Build for production and serve
 ```sh
     npm run build
