@@ -15,8 +15,8 @@
     
 # Build for production and serve
 ```sh
-    npm run build
-    npm serve
+    gatsby build
+    gatsby serve
 ```
 # Authors
 ## [Nuno Soares](https://nunosoares.eu)
